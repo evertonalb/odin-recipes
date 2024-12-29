@@ -1,0 +1,23 @@
+body {
+    background-color: hsl(60, 80%, 50%);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: hsl(120, 80%, 20%);
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p, li {
+    font-size: 20px;
+}
+
+a {
+    font-size: 25px;
+    color: hsl(120, 80%, 20%);
+}
