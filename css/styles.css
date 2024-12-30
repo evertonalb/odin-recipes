@@ -21,3 +21,12 @@ a {
     font-size: 25px;
     color: hsl(120, 80%, 20%);
 }
+
+.menu {
+    width: 50vw;
+    margin: 0 auto;
+}
+
+.dish-img {
+    float: right;
+}
