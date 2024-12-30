@@ -1,0 +1,31 @@
+body {
+    background-color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: hsl(120, 80%, 20%);
+    padding: 0 100px;
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p, li {
+    font-size: 20px;
+}
+
+a {
+    font-size: 25px;
+    color: hsl(120, 80%, 20%);
+}
+
+img {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    border: 5px solid hsl(120, 80%, 20%);
+}

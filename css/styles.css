@@ -1,5 +1,5 @@
 body {
-    background-color: hsl(60, 80%, 50%);
+    background-color: gold;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: hsl(120, 80%, 20%);
 }
@@ -23,10 +23,6 @@ a {
 }
 
 .menu {
-    width: 50vw;
+    width: 50%;
     margin: 0 auto;
-}
-
-.dish-img {
-    float: right;
 }
